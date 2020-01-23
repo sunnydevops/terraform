@@ -1,0 +1,24 @@
+variable {
+
+}
+
+
+
+
+provider{
+
+}
+resource{
+
+    provisioner{
+
+    }
+
+}
+output{
+
+}
+
+datasource{
+    
+}
